@@ -1,0 +1,19 @@
+{
+    "GODADDY_API_KEY": "dL3hLnvmhKyV_9X4NJAz6EzecqYxp81PxZd",
+    "GODADDY_API_SECRET": "N5BUvSDmG1bHhsUB4VuMXp",
+    "TIMEOUT": 1,
+    "tasks": [
+        {
+            "domain": "maderasymetalicos.com",
+            "record_name": "pbx-universidad",
+            "record_type": "A",
+            "last_public_ip": "187.251.204.210"
+        },
+        {
+            "domain": "avaluz.com.mx",
+            "record_name": "mail",
+            "record_type": "A",
+            "last_public_ip": "187.251.204.210"
+        }
+    ]
+}
